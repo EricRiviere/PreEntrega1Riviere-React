@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1Riviere-React/static/css/main.6c1ed2ca.css",
+    "main.js": "/PreEntrega1Riviere-React/static/js/main.eb89f7de.js",
+    "static/media/MaapLogo.webp": "/PreEntrega1Riviere-React/static/media/MaapLogo.244aa73aac77b0917e21.webp",
+    "index.html": "/PreEntrega1Riviere-React/index.html",
+    "main.6c1ed2ca.css.map": "/PreEntrega1Riviere-React/static/css/main.6c1ed2ca.css.map",
+    "main.eb89f7de.js.map": "/PreEntrega1Riviere-React/static/js/main.eb89f7de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6c1ed2ca.css",
+    "static/js/main.eb89f7de.js"
+  ]
+}

@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.6c1ed2ca.css","mappings":"AAAA;;CAAA,o3KACA,qSACA","sources":["index.scss"],"sourcesContent":["@tailwind base;\n@tailwind components;\n@tailwind utilities;\n"],"names":[],"sourceRoot":""}
